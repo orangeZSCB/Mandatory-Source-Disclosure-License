@@ -2,6 +2,8 @@
 
 > Use it and open source it. Don't open source it, don't use it. Take it or leave it, go fuck yourself.
 
+[en] [zh](https://github.com/orangeZSCB/Mandatory-Source-Disclosure-License/blob/master/README_zh.md) 
+
 ---
 
 ## What is this?
