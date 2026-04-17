@@ -115,3 +115,5 @@ However, should this fact come to the attention of the Copyright Holder by any m
 
 In short: what we cannot see, we cannot act on.      
 Just don't let us see it.
+
+[![Star History Chart](https://api.star-history.com/chart?repos=orangeZSCB/Mandatory-Source-Disclosure-License&type=date&legend=top-left)](https://www.star-history.com/?repos=orangeZSCB%2FMandatory-Source-Disclosure-License&type=date&legend=top-left)
