@@ -116,3 +116,5 @@ MSDL 不是为了阻止人们使用软件，而是为了确保改进能够回流
 
 简而言之：我们管不了我们看不见的地方。       
 但请别让我们看见。
+
+[![Star History Chart](https://api.star-history.com/chart?repos=orangeZSCB/Mandatory-Source-Disclosure-License&type=date&legend=top-left)](https://www.star-history.com/?repos=orangeZSCB%2FMandatory-Source-Disclosure-License&type=date&legend=top-left)
