@@ -2,7 +2,7 @@
 
 > 用了就开源，不开就别用，爱用不用，操你妈
 
-[en](https://github.com/orangeZSCB/Mandatory-Source-Disclosure-License/blob/master/README.md) [zh] [ja](https://github.com/orangeZSCB/Mandatory-Source-Disclosure-License/blob/master/Docs/zh/README_ja.md)
+[en](https://github.com/orangeZSCB/Mandatory-Source-Disclosure-License/blob/master/README.md) [zh] [ja](https://github.com/orangeZSCB/Mandatory-Source-Disclosure-License/blob/master/Docs/ja/README_ja.md)
 
 ---
 
