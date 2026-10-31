@@ -1,4 +1,4 @@
-# Mandatory Source Disclosure License (MSDL)
+# Near Mandatory Source disclosure License (NMSL)
 
 > Use it and open source it. Don't open source it, don't use it. Take it or leave it, go fuck yourself.
 
@@ -8,17 +8,17 @@
 
 ## What is this?
 
-MSDL (Mandatory Source Disclosure License) is a Copyleft license more radical than AGPL.
+NMSL (Near Mandatory Source disclosure License) is a Copyleft license more radical than AGPL.
 
 Its core claim is a single rule: **modify means disclose, regardless of whether you distribute.**
 
-Most open source licenses (including GPL and AGPL) tie disclosure obligations to "distribution" — as long as you don't hand the software to someone else, you can modify it internally with no obligation to open source anything. MSDL removes that premise: modify means disclose, full stop.
+Most open source licenses (including GPL and AGPL) tie disclosure obligations to "distribution" — as long as you don't hand the software to someone else, you can modify it internally with no obligation to open source anything. NMSL removes that premise: modify means disclose, full stop.
 
 ---
 
 ## Comparison with mainstream licenses
 
-| Action | MIT | GPL v3 | AGPL v3 | **MSDL** |
+| Action | MIT | GPL v3 | AGPL v3 | **NMSL** |
 |--------|-----|--------|---------|----------|
 | Use as-is (no modifications) | ✅ No restrictions | ✅ Retain notices | ✅ Retain notices | ✅ Retain notices |
 | Modify for internal use, no distribution | ✅ No restrictions | ✅ No obligation | ✅ No obligation | ⚠️ **Must disclose** |
@@ -53,7 +53,7 @@ No. Config files, environment variables, and runtime-generated data files are al
 
 **Q: I deployed this internally at my company for my own use. Do I still need to open source it?**
 
-Yes. MSDL's disclosure obligation does not depend on "distribution" — internal use is equally covered. This is the most fundamental difference between MSDL and GPL/AGPL.
+Yes. NMSL's disclosure obligation does not depend on "distribution" — internal use is equally covered. This is the most fundamental difference between NMSL and GPL/AGPL.
 
 **Q: I made a tiny change. What are the disclosure requirements?**
 
@@ -80,7 +80,7 @@ Copyright (c) 2025 Your Name or Organization
 Note it in your project README:
 
 ```
-This project is released under the MSDL v1.0 License. See the LICENSE file for details.
+This project is released under the NMSL v1.0 License. See the LICENSE file for details.
 ```
 
 ---
@@ -89,7 +89,7 @@ This project is released under the MSDL v1.0 License. See the LICENSE file for d
 
 Code is an extension of the commons. You are free to build upon it — but what you build should belong to everyone too.
 
-MSDL is not designed to stop people from using software. It exists to ensure that improvements flow back into the public domain — wherever those improvements happen to occur.
+NMSL is not designed to stop people from using software. It exists to ensure that improvements flow back into the public domain — wherever those improvements happen to occur.
 
 ---
 
